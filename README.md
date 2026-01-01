@@ -1,4 +1,4 @@
-# Online-Food-Delivery-Website-Only-Front-End-
+# SmartBites
 
 ### About this website:
 This was a group semester project. It was made using HTML, CSS, JS and Bootstrap.
